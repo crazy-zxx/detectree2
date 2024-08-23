@@ -12,7 +12,7 @@ setup(
     test_suite="detectree2.tests.test_all.suite",
     install_requires=[
         "pyyaml>=5.1",
-        "GDAL>=1.11",
+        "GDAL==4.3.1",
         "numpy",
         "rtree",
         "proj",
