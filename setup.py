@@ -18,8 +18,6 @@ setup(
         "proj",
         "geos",
         "pypng",
-        "pygeos",
-        "shapely",
         "geopandas",
         "rasterio==1.3a3",
         "fiona",
